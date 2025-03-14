@@ -1,6 +1,13 @@
-<doctype html>
+<!DOCTYPE html>
 <html>
-<body> 
-<p> hi <p> 
+
+<head>
+    <title>First Web Page</title>
+</head>
+
+<body>
+    Hello World!
 </body>
+
 </html>
+
